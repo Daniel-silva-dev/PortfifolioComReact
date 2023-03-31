@@ -1,11 +1,13 @@
 import { Navbar } from "./componentes/Navbar"
+import { Sidebar } from "./componentes/Sidebar"
 import { TimeProject } from "./componentes/TimeProject"
 
 function App() {
   return (
     <div>
       <Navbar />
-      <TimeProject />
+      <Sidebar />
+      {/*  <TimeProject /> */}
     </div>
   )
 }

@@ -10,7 +10,6 @@ export function Navbar(){
       <a href="https://daniel-silva-dev.github.io/MeuPortifolio/">Portifolio</a>
       <p>React JS</p>
    </header>
-   <p className="myName">Daniel Silva</p>
     </>
   );
 };
